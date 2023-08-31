@@ -4,10 +4,6 @@ import api_openai_functions as api
 
 STORY_FILE = open("api_openai_story", 'r')
 
-theme1 = "dinosaur"
-theme2 = "superhero"
-enemy_boss = "T-Rex man"
-
 for line in STORY_FILE.readlines():
     if line != '\n':
         # Find the first and last occurrence of a double quote (").
