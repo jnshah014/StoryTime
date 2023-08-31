@@ -1,0 +1,28 @@
+[TXT-GEN][Name Generation - Title] "Give a title for a story around the themes {theme1} and {theme2}"
+[TXT-GEN][Name Generation - Mystical Figure] "Give a name for an advisory figure based on {theme1} and {theme2}"
+[TXT-GEN][Name Generation - Enemy1] "Give an enemy name based on {theme1} and {theme2} for a melee enemy"
+[TXT-GEN][Name Generation - Enemy2] "Give an enemy name based on {theme1} and {theme2} for a ranged enemy"
+[TXT-GEN][Name Generation - Enemy3] "Give an enemy name based on {theme1} and {theme2} for a swarm enemy"
+[TXT-GEN][Name Generation - EnemyBoss] "Give a single boss name based on a god in mythology, {theme1}, {theme2}"
+[TXT-GEN][Name Generation - Item1] "Give an item needed before fighting {enemy_boss} of 2 words in length"
+[TXT-GEN][Name Generation - Item2] "Give an item needed to unlock {enemy_boss} of 2 words in length"
+
+[TXT] "[GAME] A mystical voice speaks to you from above"
+[TXT] "[VOICE] Welcome hero to this world plagued by evil"
+[TXT-INP] "[VOICE] What is your name? Name: "
+[TXT] "[VOICE] Ah hello {protagonist_name}, it is a pleasure to meet you."
+[TXT-INP] "[VOICE] I require your gender. Are you a man or woman? Gender: "
+[TXT] "[VOICE] In this world of ours..."
+[TXT] "[VOICE] ...there are many ecosystems..."
+[TXT] "[VOICE] ...from the underground crystal jungles..."
+[TXT] "[VOICE] ...to the floating deserts in the clouds..."
+[TXT] "[VOICE] ...each of which host many beautiful creatures."
+
+[IMG-GEN][Landscape Generation based on themes] "Landscape based on {theme1} and {theme2}"
+
+[TXT] "[VOICE] At birth you would have had a spirit animal engraved into you."
+[TXT-INP] "[VOICE] Which spirit animal has you been engraved into you. Spirit Animal: "
+[TXT] "[VOICE] Also at birth you would have been given a weapon to guide you through life's perils."
+[TXT-INP] "[VOICE] Which is yours? Weapon: "
+
+[IMG-GEN][Protagonist with weapon ready] "{protagonist_gender} holding a {protagonist_weapon} riding a {protagonist_spirit}"
