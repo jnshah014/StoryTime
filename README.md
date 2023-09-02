@@ -8,6 +8,7 @@ The goal of this project was to use generative AI to enterain and engage the use
 
 ```python
 # Mood/Emotion + Quality + Lense + Source + Description + Subject + Setting + Purpose + Destination
+import openai
 
 user_input = """Happy, 4K poster, 300mm, found on Apple's Website, of Sci-Fi iPhone,
               with coral blue background, to sell the phone, trending on ArtStation"""
