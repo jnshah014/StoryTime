@@ -21,3 +21,6 @@ response = openai.Image.create(
 image_url = response['data'][0]['url']
 print("[IMAGE URL] " + image_url)
 ```
+
+![Good iPhone Prompt by jnshah014](https://github.com/jnshah014/Ryu-Encryption/blob/main/docs/program_flowchart.jpg "Ryu Encryption Program Flowchart by jnshah014")
+![Bad iPhone Prompt by jnshah014](https://github.com/jnshah014/Ryu-Encryption/blob/main/docs/program_flowchart.jpg "Ryu Encryption Program Flowchart by jnshah014")
