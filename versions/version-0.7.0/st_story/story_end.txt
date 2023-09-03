@@ -1,0 +1,17 @@
+// End
+[TXT] "[GAME] On the surface, as you lay down your {protagonist_weapon} and celebrate with your {protagonist_spirit}..."
+[TXT] "[GAME] ...a familiar mystical voice appears and the air starts to move"
+
+[IMG-GEN][Mystical figure appears] "Powerful, monumental, serene, {mystical_figure}, 4K poster, 300mm, aim to show the power of the subject in the image, trending on ArtStation, fantasy and lush style"
+
+[TXT] "[VOICE] My name is {mystical_figure}
+[TXT] "[{mystical_figure}] Well done {protagonist_name}, you have saved this kingdom from {enemy_boss}"
+[TXT] "[{mystical_figure}] It has been taking all of the crops for itself, leaving the people starving"
+[TXT] "[{mystical_figure}] I did not reveal myself to you sooner due to how the people believe I am dead..."
+[TXT] "[{mystical_figure}] ...when I merely went into hiding to search for a hero like you"
+[TXT] "[{mystical_figure}] For that, I apologise and thank you"
+[TXT] "[{mystical_figure}] I must depart and help the people restore their kingdom"
+[TXT] "[{mystical_figure}] Go forth, valiant soul, and may your endeavors be crowned with success."
+
+[IMG-GEN][Mystical figure happy] "Happy, jovial {mystical_figure} in 4K poster, 300mm, trending on ArtStation"
+[TXT] "THE END OF YOUR ADVENTURE"
