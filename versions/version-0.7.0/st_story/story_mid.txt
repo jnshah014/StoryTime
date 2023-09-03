@@ -1,0 +1,8 @@
+[CHOICE][TXT-INP] "Choose between passageway I, II and III"
+    [1][CHOICE][TXT] "Choose between (I) Drink potion or (II) Face snake"
+        [1][TXT] "You suddenly explode and die"
+           [TXT] "Restart :("
+           [RESTART]
+        [2]
+    [2][TXT]
+    [3][TXT]
