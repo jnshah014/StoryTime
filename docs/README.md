@@ -22,5 +22,5 @@ image_url = response['data'][0]['url']
 print("[IMAGE URL] " + image_url)
 ```
 
-![Good iPhone Prompt by jnshah014](https://github.com/jnshah014/Ryu-Encryption/blob/main/docs/program_flowchart.jpg "Good iPhone Prompt by jnshah014")
-![Bad iPhone Prompt by jnshah014](https://github.com/jnshah014/StoryTime/blob/main/iPhone%20Good%20Prompt.png "Bad iPhone Prompt by jnshah014")
+## 2) Getting Started
+TBA
