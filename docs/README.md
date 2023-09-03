@@ -1,5 +1,5 @@
 # StoryTime
-**Latest Version:** 0.5.0
+**Latest Version:** 0.6.0
 
 ## 1) Introduction
 The StoryTime application makes use of Python's `openai` module in order to generate exciting text-based adventures for the user to navigate through as well as images relating to the events in the story. Parts of the story's structure is generated using the `text-davinci-003` API, and all of the images are generated via the `dall-e 2` API architecture.
