@@ -1,0 +1,9 @@
+[TXT] "[GAME] You gulp the potion down"
+[IMG-GEN] "Vibrant, 4K design, flat isometric design image of potion, trending on ArtStation"
+[TXT] "[GAME] And your {protagonist_weapon} fixes itself}"
+[TXT] "[GAME] Proceed onto the {enemy1}?"
+[TXT] "[GAME] (1) Yes"
+[TXT] "[GAME] (2) No"
+[TXT-INP][INP-CHC] "[GAME] Choose between 1 and 2: "
+
+[END]

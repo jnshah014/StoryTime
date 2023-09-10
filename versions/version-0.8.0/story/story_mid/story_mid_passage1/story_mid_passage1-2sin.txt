@@ -1,0 +1,6 @@
+[TXT] "[GAME] The {enemy1} looms upon you"
+[IMG-GEN] "Ominous, powerful, structured, large {enemy1} in 4K, 200mm, low-angle, trending on ArtStation"
+[TXT] "[GAME] As you charge to attack, you realise something..."
+[TXT] "[GAME] ...your {protagonist_weapon} is broken!"
+[TXT] "[GAME] {enemy1} corners you and..."
+[TXT] "[GAME OVER - RESTART]"

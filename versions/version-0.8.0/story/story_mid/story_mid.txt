@@ -1,0 +1,12 @@
+// Generate routes and locations
+[TXT-GEN][Name Generation - DeadlyRegion] "Give the name of a dangerous landscape based on the themes {theme1} and {theme2}"
+[TXT-GEN][Name Generation - Passageway1] "Give a name of an underground passageway based on the themes {theme1} and {theme2}"
+[TXT-GEN][Name Generation - Passageway2] "Give a name of a sky passageway based on the themes {theme1} and {theme2}"
+[TXT-GEN][Name Generation - Passageway3] "Give a name of a deadly route through a {location_landscape_deadly} based on the themes {theme1} and {theme2}"
+
+[TXT] "[GAME] You see 3 routes ahead of you:"
+[TXT] "[GAME] (1) {location_passageways[0]}"
+[TXT] "[GAME] (2) {location_passageways[1]}"
+[TXT] "[GAME] (3) {location_passageways[2]}"
+[TXT-INP][INP-CHC] "[GAME] Input 1, 2 or 3: "
+[END]

@@ -1,0 +1,6 @@
+[TXT] "[GAME] {enemy1} spots you in the distance"
+[TXT] "[{enemy1.upper()}] ROAAAARRR!!!"
+[TXT] "[GAME] Calculating in your head, you see 2 opportunities:"
+[TXT] "[GAME] (1) Wait for the perfect time to strike"
+[TXT] "[GAME] (2) Try to tame the beast"
+[TXT-INP][INP-CHC] "[GAME] Choose between 1 and 2: "

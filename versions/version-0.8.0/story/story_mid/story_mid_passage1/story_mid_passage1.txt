@@ -1,0 +1,7 @@
+[TXT] "[GAME] You see a potion lying on the ground"
+[TXT] "[GAME] But a {enemy1} lies in the distance"
+[TXT] "[GAME] You have 2 options ahead of you:"
+[TXT] "[GAME] (1) Drink the potion"
+[TXT] "[GAME] (2) Fight {enemy1}"
+[TXT-INP][INP-CHC] "[GAME] Choose between 1 and 2: "
+[END]

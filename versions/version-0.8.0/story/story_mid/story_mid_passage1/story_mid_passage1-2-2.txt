@@ -1,0 +1,7 @@
+[TXT] "[GAME] You try to tame the monster by holding up a toy"
+[TXT] "[GAME] It writhes for a while and tries to kick you off"
+[TXT] "[GAME] It eventually succumbs to you and becomes your friend"
+[IMG-GEN] "Jovial, party-themed, of happy, friendly {enemy1}, in Sticker Illustration style, trending on ArtStation"
+[TXT] "[{enemy1.upper()}] No one understands that I am actually a good beast at heart"
+[TXT] "[{enemy1.upper()}] Thank you for seeing the good in me"
+[END]
