@@ -16,4 +16,4 @@ openai.error.APIConnectionError: Error communicating with OpenAI: HTTPSConnectio
 ```
 **STEP 2:** Download the latest version of Python using [the link here](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe).
 
-**STEP 2:** Download the latest version of StoryTime and move the files onto your desktop. Download the folder using [the link here].
+**STEP 3:** Download the latest version of StoryTime and move the files onto your desktop. Download the folder using [the link here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjnshah014%2FStoryTime%2Ftree%2Fmain%2Fversions%2Fversion-0.8.0).
