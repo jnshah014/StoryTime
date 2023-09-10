@@ -29,4 +29,4 @@ cd <path>
 **STEP 5:** Proceed to input the following command which will run StoryTime:
 ```terminal
 Python main.py
-``
+```
