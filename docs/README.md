@@ -30,3 +30,6 @@ cd <path>
 ```terminal
 Python main.py
 ```
+
+## 3) Use of StoryTime
+To enjoy your experience with StoryTime make sure your inputs are sensible. If they are not sensible, either Python will give an error or the outputted text or images will be undesireable or inaccurate. e.g. If asked to input a number between 1 and 3, please do so. If not the program will... **BREAK!!!**
