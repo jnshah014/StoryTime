@@ -17,8 +17,8 @@ while not story.game_won:
                     story.story_read("story/story_mid/story_mid_passage1/story_mid_passage1-2-2.txt")
                     story.enemy1_won = True
         elif story.choice == "2":
-            story.story_read("story/story_mid/story_mid_passage1/story_mid_passage1-2sin.txt") # sin is without in ESP and is what happens without drinking potion first
-
+            # 'sin' denotes what happens without drinking potion first
+            story.story_read("story/story_mid/story_mid_passage1/story_mid_passage1-2sin.txt")
     elif story.choice == "2":
         pass
 
